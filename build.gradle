@@ -1,0 +1,8 @@
+apply plugin: 'base'
+
+allprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+}

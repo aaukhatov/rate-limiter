@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rate-limiter-gateway
+
+server:
+  port: 8001

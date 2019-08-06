@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: slow-limited-service
+
+server:
+  port: 8002
